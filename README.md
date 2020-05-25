@@ -2,7 +2,8 @@
 
 π.Lynx.LTE Board Design Files & Datasheet
 
-Description
+Description:
+
 π.Lynx.LTE is a 3G/4G/NB-IoT/LTE HAT board which turns your Raspberry Pi or 40-pin Pi compatible single-board-computer into a router or gateway. The board is basically an interface bridge between mini PCIe cellular modems. With the standard mini PCIe modems you insert into HAT, your Raspberry Pi based projects can access data networks all around the world. This board enables high-bandwidth cellular connectivity on your remote devices. From low-power consumption NB-IoT LTE-Cat.M to ultra-high-speed LTE-Advanced mini PCIe cards supported by the board. Both UART and USB communication exist on the board. USB is highly recommended for achieving high-speed download/upload rates.
 Remote management of M2M devices in the field, secure connection ( e.g SSH/SSL ) over the mobile network, reliable coverage across the globe with lots of carrier option is available with this HAT stacked on the Raspberry Pi. It can be also used as a standalone LTE modem or dongle with other embedded computer platforms. If you’re looking for an LTE HAT for Raspberry Pi applications like  video streaming or high-speed data transferring, you are at the right place. Making a remote controllable LTE Wi-Fi Hotspot, high-speed GPS tracking, more and more use cases are possible with this add-on board.
 
