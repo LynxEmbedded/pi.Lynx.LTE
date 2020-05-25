@@ -45,4 +45,3 @@ Smart Energy & City & Agriculture Applications
 Smart Parking
 Security & Asset Tracking
 Projects using an HMI Display ( *Requires Optional Units ) & GSM/LTE Connection 
-
